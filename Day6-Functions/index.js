@@ -42,18 +42,19 @@
 
 // Sayhello()
 
-// function Addition(num,num2){
-//     // let num=10
-//     // let num2=10
+function Addition(num,num2){
+   
 
-//    let add=num+num2
+   let add=num+num2
 
-//    console.log(add)
-// }
+   console.log(add)
+}
 
-// Addition(10,20)
+Addition(10,20)
 
-// Addition(30,78)
+Addition(30,78)
+
+Addition(38256872,7425875872)
 
 // console.log("Hi Ansar")
 // console.log("Hi Ram")
